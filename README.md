@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Vismai08
-- 👀 I’m interested in Artificial Intelligence ...
-- 🌱 I’m currently learning python ...
-- I am studying in class X 
 - 
 - 📫 How to reach me ... vismais.mg07@gmail.com
 
