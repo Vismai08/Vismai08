@@ -29,7 +29,7 @@ Fueled by a passion for building the future and capturing the present. By day, I
 > **Open To:** AI/ML collaborations, full-stack product development, creative media tech partnerships, and open-source hackathons.
 
 ---
-
+<!--
 ## 3. Tech Stack Section
 
 ### Languages
@@ -53,6 +53,7 @@ Fueled by a passion for building the future and capturing the present. By day, I
 </p>
 
 ---
+-->
 
 ## 4. AI / ML Expertise Section
 
@@ -80,7 +81,7 @@ A comprehensive analytics platform bringing Formula 1 historical insights and de
 | **Performance** | Clean modular architecture built to display rich metrics instantly |
 | **Security** | Safe front-facing rendering environment with structural encapsulation |
 | **Impact** | Top 10% worldwide user footprint recognition on the Lovable platform |
-| **Repository** | [GitHub Repository](https://github.com/Vismai08) |
+| **link** | https://v-race.lovable.app/|
 
 #### Professional Project Overview
 Engineered to map intricate data narratives into visual web platforms. Leveraging quick-rendering interface components and structured state management, it offers racing enthusiasts an analytical framework to break down racing parameters seamlessly.
