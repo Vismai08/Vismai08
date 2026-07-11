@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.github.io/page/render?type=wave&color=auto&height=220&section=header&text=Vismai%2008&fontSize=50&animation=fadeIn&fontColor=7C3AED&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.github.io/page/render?type=wave&color=auto&height=220&section=header&text=Vismai%20S&fontSize=50&animation=fadeIn&fontColor=7C3AED&theme=dark" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;AI+%2F+ML+Systems+Architect;Full+Stack+Product+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.Tech+Freshman+@+RV+University;Aspiring+AI+%26+ML+Engineer;CSE+Undergraduate" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Vismai08"><img src="https://img.shields.io/badge/Degree-B.E.%20Computer%20Science-4C1D95?style=flat-square&logo=graduation-cap&logoColor=white" alt="Academic Badge" /></a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-5B21B6?style=flat-square&logo=google-maps&logoColor=white" alt="Location Badge" />
-  <a href="https://github.com/Vismai08"><img src="https://img.shields.io/badge/Portfolio-Premium%20V1-6D28D9?style=flat-square&logo=browser&logoColor=white" alt="Portfolio Button" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email Button" /></a>
+  <a href="https://github.com/Vismai08"><img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20(AI%26ML)-4C1D95?style=flat-square&logo=graduation-cap&logoColor=white" alt="Academic Badge" /></a>
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka%2C%20India-5B21B6?style=flat-square&logo=google-maps&logoColor=white" alt="Location Badge" />
+  <a href="https://vismaihere.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Lovable%20Site-6D28D9?style=flat-square&logo=browser&logoColor=white" alt="Portfolio Button" /></a>
+  <a href="https://www.linkedin.com/in/vismai-s-634a7136b"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
+  <a href="mailto:Vismais.mg07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email Button" /></a>
   <a href="https://github.com/Vismai08"><img src="https://img.shields.io/badge/GitHub-Profile-A78BFA?style=flat-square&logo=github&logoColor=white" alt="GitHub Button" /></a>
 </div>
 
@@ -26,13 +26,9 @@
 
 ## 2. About Section
 
-An ambitious and results-driven **Senior Software Engineer** and **AI/ML Systems Architect** dedicated to building highly scalable, enterprise-grade applications. Leveraging deep expertise in engineering comprehensive full-stack architectures combined with modern machine learning paradigms, I specialize in translating complex technical challenges into production-ready business value. With a product engineering mindset, I prioritize structural integrity, clean code, low-latency performance, and continuous developer velocity.
+Fueled by a passion for building the future and capturing the present. By day, I dive deep into data models and the endless possibilities of artificial intelligence. By night, I'm behind the lens, exploring the world through photography and cinematography. I love where cutting-edge tech meets creative storytelling, let's connect and build something innovative together.
 
-* **Core Systems:** Microservices, Distributed Infrastructures, Advanced Database Optimization.
-* **AI/ML Paradigms:** LLM Orchestration, Deep Learning Pipelines, Predictive Analytics, MLOps.
-* **Product Engineering:** User-centric workflows, highly interactive interfaces, enterprise security.
-
-> **Open To:** Enterprise Architectural Consultations, Core AI R&D roles, High-Impact Open Source Initiatives.
+> **Open To:** AI/ML collaborations, full-stack product development, creative media tech partnerships, and open-source hackathons.
 
 ---
 
@@ -40,22 +36,22 @@ An ambitious and results-driven **Senior Software Engineer** and **AI/ML Systems
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,go" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c" alt="Languages" />
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
 </p>
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" alt="Backend & Databases" />
 </p>
 
 ### Cloud, DevOps & Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux" alt="DevOps & Tooling" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma" alt="DevOps & Tooling" />
 </p>
 
 ---
@@ -64,72 +60,43 @@ An ambitious and results-driven **Senior Software Engineer** and **AI/ML Systems
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Large Language Models (LLMs)** | Advanced | Prompt Engineering, Fine-Tuning, Retrieval-Augmented Generation (RAG) |
-| **Computer Vision** | Intermediate | Object Detection, Image Segmentation using OpenCV and PyTorch |
-| **MLOps & Pipelines** | Advanced | Model Versioning, Automated Training Pipelines, Triton Inference Server |
-| **Data Architecture** | Advanced | Feature Stores, Data Lakehouses, Vector Databases (Pinecone, Milvus) |
+| **Generative AI** | Core | Prompt Engineering, application of core foundation models |
+| **Data Science & AI** | Fundamentals | Structuring models, baseline machine learning analytics |
+| **AI Productivity Tools** | Core | Implementing Copilot frameworks, streamlining developer workflows |
 
 ---
 
 ## 5. Featured Projects Section
 
 <details>
-<summary><b>🚀 Core Intelligence Engine</b></summary>
+<summary><b>🏎️ V Race - Your Digital Pit Wall</b></summary>
 <br />
 
-### Core Intelligence Engine
-An enterprise-grade orchestration pipeline designed for automated semantic indexing, context-aware retrieval, and deep analytical inferences across multi-modal corporate datasets.
+### V Race - Your Digital Pit Wall
+A comprehensive analytics platform bringing Formula 1 historical insights and deep analytics dashboards straight to a visual interactive hub.
 
 | Metric | Specifications / Details |
 | :--- | :--- |
-| **Stack** | Python, PyTorch, FastStream, Qdrant Vector DB, Kubernetes |
-| **Scale** | Processed > 10M dense document vectors with sub-50ms latency |
-| **Performance** | Optimized chunk token distribution yielding 40% reduction in token overhead |
-| **Security** | Zero-trust input validation, strict RBAC parsing, AES-256 state encryption |
-| **Impact** | Boosted operational compliance audit processing speeds by 3.5x |
-| **Repository** | [Private/Enterprise Monorepo Architecture] |
-
-#### Professional Project Overview
-Engineered to resolve data fragmentation challenges within vast unstructured document stores. The system provisions dynamic indexing pipelines that parse, extract, embed, and index large-scale multi-modal records. Utilizing advanced caching layers over distributed vector databases, it guarantees scalable high-throughput inquiries resilient under volatile traffic loads.
-</details>
-
-<details>
-<summary><b>🌐 Nexus Real-Time Streaming Platform</b></summary>
-<br />
-
-### Nexus Real-Time Streaming Platform
-A premium cloud-native distributed data ingestion and orchestration dashboard running dynamic analytics streaming engines.
-
-| Metric | Specifications / Details |
-| :--- | :--- |
-| **Stack** | TypeScript, Next.js, Go, Apache Kafka, Redis Enterprise, AWS |
-| **Scale** | Orchestrated telemetry ingestion sustaining 150,000+ concurrent websocket messages |
-| **Performance** | Achieved consistent sub-15ms client-side updates through optimized delta decoding |
-| **Security** | End-to-end TLS 1.3 encryption with strict JWT/OAuth2 session flows |
-| **Impact** | Mitigated production infrastructure tracking outages to 0% throughout testing |
+| **Stack** | React, Next.js, Tailwind CSS, Lovable |
+| **Scale** | Fully featured responsive UI built for modern analytics consumers |
+| **Performance** | Clean modular architecture built to display rich metrics instantly |
+| **Security** | Safe front-facing rendering environment with structural encapsulation |
+| **Impact** | Top 10% worldwide user footprint recognition on the Lovable platform |
 | **Repository** | [GitHub Repository](https://github.com/Vismai08) |
 
 #### Professional Project Overview
-Developed to serve as a mission-critical observability hub for modern cloud footprints. Built around high-throughput message brokers and optimized concurrent Go workers, it decouples streaming ingestion layers from analytical computational processes. The frontend layer utilizes precise atomic component updates to display dense data matrices smoothly without causing CPU performance bottlenecks.
+Engineered to map intricate data narratives into visual web platforms. Leveraging quick-rendering interface components and structured state management, it offers racing enthusiasts an analytical framework to break down racing parameters seamlessly.
 </details>
 
 ---
 
 ## 6. Experience Section
 
-### **Senior Software Engineer & Architect** | Enterprise Systems Corp
-*July 2024 — Present*
-* Architected and implemented distributed cloud infrastructures driving modern product strategies and highly resilient data management ecosystems.
-* Spearheaded migration towards optimized microservices architectures, realizing a 30% increase in computational infrastructure efficiency.
-* Mentored cross-functional engineering pods globally, enforcing clean code conventions, test-driven designs, and automated pipeline workflows.
-* `Python` `Go` `Next.js` `AWS` `Kubernetes` `Docker` `Kafka`
-
-### **Software Engineer II** | Innovative Tech Solutions
-*June 2022 — June 2024*
-* Designed highly responsive full-stack product interfaces optimized across multiple browsers, frameworks, and rendering modes.
-* Engineered secure transactional backend REST/GraphQL endpoints ensuring database transaction safety and minimal lock contention.
-* Integrated continuous delivery pipelines reducing time-to-production cycles markedly.
-* `TypeScript` `Node.js` `React` `PostgreSQL` `Redis` `GraphQL` `CI/CD`
+### **Top 10% Worldwide User** | Lovable
+*Ongoing*
+* Ranked in the top 10% of users on Lovable for designing and publishing highly optimized websites, landing pages, and interactive software interfaces.
+* Leveraged state-of-the-art conversational AI tools to convert visual mockups into fully functional cloud applications.
+* `Lovable` `Generative AI` `Product Design` `Web Software`
 
 ---
 
@@ -139,9 +106,9 @@ Developed to serve as a mission-critical observability hub for modern cloud foot
 
 | Recognition | Details |
 | :--- | :--- |
-| **1st Place Winner** | Global Enterprise Hackathon — AI Innovation Track |
-| **Engineering Excellence Award** | Honored for architectural refactoring of critical core APIs |
-| **Top Open Source Contributor** | Recognized among leading technical engineering modules |
+| **Top 10% User** | Globally ranked for product design metrics on Lovable platform |
+| **House Captain** | Formally elected leadership role overseeing operations at MG School for Excellence |
+| **National Level Quizzer** | Finalist representation in high-caliber national intellectual competitions |
 
 </div>
 
@@ -149,28 +116,25 @@ Developed to serve as a mission-critical observability hub for modern cloud foot
 
 ## 8. Certifications Section
 
-### Amazon Web Services
-![](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/AWS-Certified_DevOps_Engineer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+### Microsoft & LinkedIn
+![](https://img.shields.io/badge/Microsoft-Career_Essentials_in_Generative_AI-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-Learning_Microsoft_365_Copilot_for_Work-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-AI_Literacy_for_Everyone-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-### Oracle
-![](https://img.shields.io/badge/Oracle-Autonomous_Database_Cloud_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### IIT Madras (NPTEL)
+![](https://img.shields.io/badge/IIT_Madras-Introduction_to_Data_Science_and_AI-9C27B0?style=for-the-badge&color=7C3AED)
 
-### NPTEL
-![](https://img.shields.io/badge/NPTEL-Data_Structures_And_Algorithms_Elite_Gold-7C3AED?style=for-the-badge&color=4C1D95)
-
-### Cisco
-![](https://img.shields.io/badge/Cisco-CCNA_Routing_and_Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+### NASBA
+![](https://img.shields.io/badge/NASBA-What_is_Generative_AI-388E3C?style=for-the-badge&logo=open-ai&logoColor=white)
+![](https://img.shields.io/badge/NASBA-Introduction_to_Artificial_Intelligence-388E3C?style=for-the-badge)
 
 ---
 
 ## 9. Coding Profiles Section
 
 <div align="center">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Premium_Elite-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-Master_Contributor-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-5_Star_Problem_Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-Advanced_Division-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </div>
 
 ---
@@ -216,28 +180,11 @@ Developed to serve as a mission-critical observability hub for modern cloud foot
 
 ```yaml
 learning:
-  - Advanced Distributed System Patterns
-  - Custom LLM Quantization Frameworks
+  - Advanced Machine Learning Architectures
+  - Large Language Model Optimization
 building:
-  - Multi-Agent Autonomous Engineering Pipelines
+  - F1 Analytical Modeling Interfaces (V-Race Platform)
 exploring:
-  - Quantum Computing Paradigms & Algorithms
+  - Cinematography & Technical Creative Media Layouts
 openTo:
-  - Cross-Border Enterprise System Consultations
-
-## 15. Connect Section
-
-<div align="center">
-  <a href="mailto:Vismais.mg07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/vismai-s-634a7136b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Vismai08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://vismaihere.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio" /></a>
-</div>
-
-<div align="center">
-<i>"Simplicity is the consequence of refined architectural depth and disciplined engineering execution."</i>
-</div>
-<br />
-<div align="center">
-<img src="https://capsule-render.github.io/page/render?type=wave&color=auto&height=120&section=footer&theme=dark" width="100%" alt="Footer Banner" />
-</div>
+  - AI Research Collaborations & Full Stack Hackathons
