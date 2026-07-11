@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.github.io/page/render?type=wave&color=7C3AED&height=220&section=header&text=Vismai%20S&fontSize=50&animation=fadeIn&fontColor=ffffff&theme=dark" width="100%" alt="Header Banner" />
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.Tech+Freshman+@+RV+University;Aspiring+AI+%26+ML+Engineer;CSE+Undergraduate" alt="Typing SVG" />
