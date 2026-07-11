@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.github.io/page/render?type=wave&color=auto&height=220&section=header&text=Vismai%20S&fontSize=50&animation=fadeIn&fontColor=7C3AED&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.github.io/page/render?type=wave&color=7C3AED&height=220&section=header&text=Vismai%20S&fontSize=50&animation=fadeIn&fontColor=ffffff&theme=dark" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
