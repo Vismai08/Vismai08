@@ -170,10 +170,12 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 
 ---
 
-## 12. Contribution Activity Section
+---
+
+## 13. Contribution Grid Section
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vismai08&bg_color=0F172A&color=7C3AED&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/calendar.svg?username=Vismai08&theme=dark&color=7C3AED" width="100%" alt="GitHub Contribution Grid" />
 </div>
 
 ## 14. Current Focus Section
