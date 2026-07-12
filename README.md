@@ -129,7 +129,7 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 
 ---
 
-## 9. Coding Profiles Section
+<!--## 9. Coding Profiles Section
 
 <div align="center">
   <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
@@ -137,6 +137,7 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 </div>
 
 ---
+-->
 
 ## 10. GitHub Analytics Section
 
