@@ -53,7 +53,7 @@ Fueled by a passion for building the future and capturing the present. By day, I
 </p>
 
 ---
--->
+
 
 ## 4. AI / ML Expertise Section
 
@@ -64,6 +64,7 @@ Fueled by a passion for building the future and capturing the present. By day, I
 | **AI Productivity Tools** | Core | Implementing Copilot frameworks, streamlining developer workflows |
 
 ---
+-->
 
 ## 5. Featured Projects Section
 
@@ -137,7 +138,7 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 </div>
 
 ---
--->
+
 
 ## 10. GitHub Analytics Section
 
@@ -157,7 +158,7 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vismai08&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </div>
-
+-->
 ---
 
 ## 12. Contribution Activity Section
@@ -171,6 +172,8 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 ---
 
 ---
+
+<!--
 
 ## 13. Contribution Grid Section
 
