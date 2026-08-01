@@ -22,7 +22,7 @@
 
 ---
 
-## 2. About Section
+## About Section
 
 Fueled by a passion for building the future and capturing the present. By day, I dive deep into data models and the endless possibilities of artificial intelligence. By night, I'm behind the lens, exploring the world through photography and cinematography. I love where cutting-edge tech meets creative storytelling, let's connect and build something innovative together.
 
@@ -66,7 +66,7 @@ Fueled by a passion for building the future and capturing the present. By day, I
 ---
 -->
 
-## 5. Featured Projects Section
+##  Featured Projects Section
 
 <details>
 <summary><b>🏎️ V Race - Your Digital Pit Wall</b></summary>
@@ -90,7 +90,7 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 
 ---
 
-## 6. Experience Section
+##  Experience Section
 
 ### **Top 10% Worldwide User** | Lovable
 *Ongoing*
@@ -100,7 +100,7 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 
 ---
 
-## 7. Achievements Section
+##  Achievements Section
 
 <div align="center">
 
@@ -114,7 +114,7 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 
 ---
 
-## 8. Certifications Section
+##  Certifications Section
 
 ### Microsoft & LinkedIn
 ![](https://img.shields.io/badge/Microsoft-Career_Essentials_in_Generative_AI-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -173,7 +173,7 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 
 ---
 
-<!--
+
 
 ## 13. Contribution Grid Section
 
