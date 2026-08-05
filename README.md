@@ -161,7 +161,8 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 -->
 ---
 
-##  Contribution Activity Section
+
+## Contribution Activity Section
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vismai08&bg_color=0F172A&color=7C3AED&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
