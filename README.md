@@ -128,7 +128,7 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 ![](https://img.shields.io/badge/NASBA-What_is_Generative_AI-388E3C?style=for-the-badge&logo=open-ai&logoColor=white)
 ![](https://img.shields.io/badge/NASBA-Introduction_to_Artificial_Intelligence-388E3C?style=for-the-badge)
 
----
+
 
 <!--## 9. Coding Profiles Section
 
@@ -170,9 +170,6 @@ Engineered to map intricate data narratives into visual web platforms. Leveragin
 
 ---
 
----
-
----
 
 
 
